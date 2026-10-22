@@ -11,13 +11,14 @@ Die Silben sind farbig (blau und rot im Wechsel) und haben Silbenbögen, angeleh
 - **Sechs Züge:** Dampflok, ICE, Regionalbahn, Regionalexpress, Güterzug und Bimmelbahn.
 - **Vier Strecken:** Wiesenbahn, Seebahn, Bergbahn und Küstenbahn. Sie werden durch gefahrene Runden freigeschaltet.
 - **Jahres- und Tageszeiten:** Frühling, Sommer, Herbst und Winter sowie Morgen, Tag, Abend und Nacht. Wahlweise passt sich das Bild an Datum und Uhrzeit des Geräts an.
-- **Elternmenü:** Wird mit 1 Sekunde gedrückt Halten geöffnet. Dort lassen sich einstellen:
+- **Elternmenü:** Wird mit 2 Sekunden gedrückt Halten geöffnet (wie überall bei Komma Katze und in der Detektei). Dort lassen sich einstellen:
   - Größe und Inhalt des Leseteppichs
   - Tastenhilfe und Umschalttaste
   - Strecken, Jahres- und Tageszeit
   - Ton
   - Speichern auf dem Gerät
   - Vollbild
+- **Zur Startseite:** Der Haus-Knopf oben links im Bild führt zu prima.kommakatze.de (offline ausgeblendet).
 - **Klänge:** Alle Geräusche werden im Browser erzeugt (Web Audio), es gibt keine Audiodateien.
 - **Bilder:** Grafiken im Wasserfarben-Stil als eingebettetes SVG.
 
@@ -40,7 +41,7 @@ Programm, Grafiken, Texte und Wortlisten stehen unter der Lizenz [Creative Commo
 Namensnennung bei Weitergabe: *„Silbenexpress“ von Sebastian Wolf, Lizenz CC BY-SA 4.0*
 **Schrift:** Die eingebettete Schrift „Silbenschrift“ beruht auf [Poppins](https://github.com/itfoundry/Poppins), Copyright 2020 The Poppins Project Authors. Sie steht unter der [SIL Open Font License 1.1](https://openfontlicense.org). Verändert wurden das kleine l (mit Bogen, zur Unterscheidung vom großen I) und der Zeichenumfang.
 **Silbenmethode:** Die farbige Silbendarstellung lehnt sich an die verbreitete Silbenmethode im Erstleseunterricht an. Buchstabenfolge, Wortlisten, Silben und Grafiken sind eigene Zusammenstellungen. Es besteht keine Verbindung zu einem Verlag oder Lehrwerk.
-**Transparenzhinweis:** Die Anwendung wurde mit Hilfe der KI Claude Opus 5.5 erstellt. 
+**Transparenzhinweis:** Programmiert mit Unterstützung von KI (Claude, Anthropic). Idee, Inhalte und fachliche Prüfung: Sebastian Wolf. 
 
 ## Kontakt
 Sebastian Wolf · s.w.oer@outlook.de
